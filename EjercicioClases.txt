@@ -1,0 +1,20 @@
+Inicio:
+1)Despetar
+2)Levantarse
+3)Pensar que hacer durante el transcurso del dia
+4)Desayunar
+5)Lavarse los dientes
+6)Tomar la ducha
+7)Decidir que ropa utilizar
+8)Ver si puede llover xD
+9)Alistar los utiles 
+10)Alistarse para ir a clases
+11)Tomar el Autobus
+12)Caminar desde el sitio de parada hasta la universidad
+13)Llegar al sitio de estudio
+14)Tomar las clases
+15)Comer
+16)Salir de la universidad
+17)Caminar hasta la parada del bus
+18)Llegar a la casa 
+Fin.
